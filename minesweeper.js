@@ -1,4 +1,4 @@
-!function($){
+(function($){
    
     var Game = {
         over :false,
@@ -149,4 +149,4 @@
        Game.start(30, 15, 20);
     });
     
-}(jQuery);
+})(jQuery);
